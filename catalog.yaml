@@ -2,13 +2,14 @@
 projects:
   - main: payments-oas.yaml
     assetId: invoice-payment-system-api
-    version: 1.1.0
+    version: 1.0.0
     apiVersion: v1
     contact:
-      name: 'Andres Morales'
-      email: 'andres.email@flexcompany.com'
+      name: 'Aleksi Savijoki'
+      email: 'aleksi.email@flexcompany.com'
     tags:
       - logistics
       - commerce
+      - systemapi
     documentation:
       Home: home.md
